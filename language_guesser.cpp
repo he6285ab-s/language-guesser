@@ -8,8 +8,6 @@
  frequencies have been collected from the Wikipedia page "Letter frequency".
 
 ================================================================================
-Programkod:
-===========
 */
 
 
